@@ -1,0 +1,2 @@
+STREAM : To send a big data into small piece by piece so that client can load data faster --> Streaming uses less memory
+BUFFER : To process a STREAMED data on client side, it is the process of storing the small pieces of data  
